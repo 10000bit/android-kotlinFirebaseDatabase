@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744578469697",
+    "firebase_url": "https://fir-database-7237f.firebaseio.com",
+    "project_id": "fir-database-7237f",
+    "storage_bucket": "fir-database-7237f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744578469697:android:52fa07cdaee09c123f9bc0",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744578469697-ig17712avlcs3qvod6q940d3eddjpdjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8W7_zl-CcYSsYX2fVq-3rw5Z-v57dUQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744578469697-ig17712avlcs3qvod6q940d3eddjpdjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
